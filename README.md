@@ -21,8 +21,8 @@ npm start
 
 ## Screenshots
 <p align="center">
-<img width="300" height="200" src="https://github.com/hoangnghiem205/react-tictactoe/tree/master/images/game.png?raw=true">
-<img width="300" height="200" src="https://github.com/hoangnghiem205/react-tictactoe/tree/master/images/home.png?raw=true">
+<img src="https://i.gyazo.com/945884675af9a97c62bc294b6d74fb2f.png">
+<img src="https://i.gyazo.com/0e6637491a581cc1300d4a0bf814b7b3.png">
 </p>
 
 
