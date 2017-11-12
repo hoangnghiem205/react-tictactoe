@@ -20,9 +20,10 @@ npm start
 ```
 
 ## Screenshots
-![Game screen](https://github.com/hoangnghiem205/react-tictactoe/tree/master/images/game.png "Game")
-![Home screen](https://github.com/hoangnghiem205/react-tictactoe/tree/master/images/home.png "Home")
-
+<p align="center">
+<img align="left" width="300" height="200" src="https://github.com/hoangnghiem205/react-tictactoe/tree/master/images/game.png">
+<img align="left" width="300" height="200" src="https://github.com/hoangnghiem205/react-tictactoe/tree/master/images/home.png">
+</p>
 
 ## Built With
 
