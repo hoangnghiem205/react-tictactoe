@@ -20,9 +20,8 @@ npm start
 ```
 
 ## Screenshots
-
-![Game screen](https://github.com/hoangnghiem205/react-tictactoe/tree/master/images/game.png)
-![Home screen](https://github.com/hoangnghiem205/react-tictactoe/tree/master/images/])
+![Game screen](https://github.com/hoangnghiem205/react-tictactoe/tree/master/images/game.png "Game")
+![Home screen](https://github.com/hoangnghiem205/react-tictactoe/tree/master/images/home.png "Home")
 
 
 ## Built With
@@ -33,4 +32,4 @@ npm start
 
 ## Authors
 
-* **Nghiem Ming Hoang** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Nghiem Ming Hoang** - [Github](https://github.com/hoangnghiem205)
