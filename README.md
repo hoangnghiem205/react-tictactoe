@@ -1,6 +1,7 @@
 # Tictactoe
 
-Tictactoe Online with ReactJS and Socket.io
+Tictactoe Online with ReactJS and Socket.io. 
+
 Support play with 2 player.
 
 ## Installing
